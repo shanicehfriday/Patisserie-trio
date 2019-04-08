@@ -1,25 +1,4 @@
-body {
-  padding-top: 5rem;
-}
-.starter-template {
-  padding: 3rem 1.5rem;
-  text-align: center;
-}
-
-body{
-  color: rgb(255,105,180);
-  font-family: courier;
-  margin: 20px;
-  }
-
-  body {background-color: grey;}
-
-  h1 {
-    font-size: 400%;
-  }
-
-
-  /* Style inputs with type="text", select elements and textareas */
+/* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */
